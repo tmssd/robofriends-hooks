@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CRSE_Udemy_WebDev_ZTM2021_robofriends-hooks/static/css/main.3d6ccd81.css",
-    "main.js": "/CRSE_Udemy_WebDev_ZTM2021_robofriends-hooks/static/js/main.047e2893.js",
-    "static/js/787.32032a02.chunk.js": "/CRSE_Udemy_WebDev_ZTM2021_robofriends-hooks/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/CRSE_Udemy_WebDev_ZTM2021_robofriends-hooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/CRSE_Udemy_WebDev_ZTM2021_robofriends-hooks/index.html",
-    "main.3d6ccd81.css.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends-hooks/static/css/main.3d6ccd81.css.map",
-    "main.047e2893.js.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends-hooks/static/js/main.047e2893.js.map",
-    "787.32032a02.chunk.js.map": "/CRSE_Udemy_WebDev_ZTM2021_robofriends-hooks/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/css/main.17b42f5e.css",
+    "main.js": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/js/main.c4de462c.js",
+    "static/js/787.32032a02.chunk.js": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/index.html",
+    "main.17b42f5e.css.map": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/css/main.17b42f5e.css.map",
+    "main.c4de462c.js.map": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/js/main.c4de462c.js.map",
+    "787.32032a02.chunk.js.map": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d6ccd81.css",
-    "static/js/main.047e2893.js"
+    "static/css/main.17b42f5e.css",
+    "static/js/main.c4de462c.js"
   ]
 }
