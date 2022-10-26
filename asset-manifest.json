@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/css/main.17b42f5e.css",
-    "main.js": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/js/main.c4de462c.js",
-    "static/js/787.32032a02.chunk.js": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/index.html",
-    "main.17b42f5e.css.map": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/css/main.17b42f5e.css.map",
-    "main.c4de462c.js.map": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/js/main.c4de462c.js.map",
-    "787.32032a02.chunk.js.map": "/CRSE_Udemy_WebDev-ZTM2022_robofriends-hooks/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/robofriends-hooks/static/css/main.f71c6c76.css",
+    "main.js": "/robofriends-hooks/static/js/main.892883cc.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends-hooks/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/robofriends-hooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robofriends-hooks/index.html",
+    "main.f71c6c76.css.map": "/robofriends-hooks/static/css/main.f71c6c76.css.map",
+    "main.892883cc.js.map": "/robofriends-hooks/static/js/main.892883cc.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends-hooks/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17b42f5e.css",
-    "static/js/main.c4de462c.js"
+    "static/css/main.f71c6c76.css",
+    "static/js/main.892883cc.js"
   ]
 }
